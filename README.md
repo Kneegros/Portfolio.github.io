@@ -1,53 +1,33 @@
 <img src="https://github.com/Kneegros/Portfolio.github.io/blob/main/bd103e3a-cd0c-455d-8564-5ec6fe25f420.jpg" alt="RPB Photo" align="right" width="40%"/>
 
-# _Robert P Batzinger_
-> _Praeceptor Emeritus_<br />
-> Payap University, Department of Computer Science<br />
+# _Naser Bin Jassim Alserkal_
+> Payap University, International Business Management<br />
 > Amphur Muang, Chiang Mai 50000, Thailand<br />
 
-> Computer Solutions Developer with decades of experience in Data Science and Big Data Analytics, Natural language Processing, Document Publishing Systems, and Web Community Development
+> Business Students, Stock trader, Gumpla lover.
 
 # Education
-* SB Chemistry - Massachusetts Institute of Technology
-* PhD Pathobiology - Johns Hopkins University
-* NIH Post Doctoral Fellow - University of Wisconsin at Madison
-* MS Applied Mathematics and Computer Science - Indiana University - South Bend
+* Bachelor - Payap University
+* High school - American Pacific International school
 
 # Experience
-* Summer Intern - New York State Rabies Screening Laboratory
-* Undergraduate Research Opportunity Intern - Environmental Health Sciences Center, Massachusetts Institute of Technology
-* Urban Vehicle Design Competition - Team communications and logistics officer, Massachusetts Institute of Technology
-* Research Assistant - Wellcome Laboratory, Johns Hopkins University 
-* Post Doctoral Fellow - McArdle Laboratory, University of Wisconsin at Madison
-* Project Head - Faculty of Pharmacy, Payap University
-* Acting Dean - Faculty of Science, Payap University
-* Software Development Lead - Computer-Assisted Text Processing Center, Thailand Bible Society
-* Director - United Bible Society Asia-Pacific Regional Computer-Assisted Text Processing Center
-* Office Manager - Martin Kehoe Law Office - Guilderland, NY
-* Informatics Lab Manager - Indiana University - South Bend
-* Computer Science Instructor - Payap University
-* IT Director - Payap University
-* Praceptor Emeritus - Payap University
+* Janitor - Local restaurant 
+* 3D Modeller - Roblox
 
 # Interests
-* Applied machine learning, data science, modeling and forecasting to assist decision making
-* Natural language processing to automate prepublication editing support
-* Web and online community development and e-business
-* Blended and online education for higher education and livelong learning
-* Bible study and its life applications
-
-# Project experience with Languages
-* Computer programming: Fortran 4, 6809 Assembler, C, MS BASIC, Forth, Z80 Assembler, Pascal, Lisp, C++, AWK, SNOBOL, APL, troff, SPITBOL, Perl, SmallTalk, Icon, Fortran 77, TeX, Metafont, XLISP, Visual Basic, SQL, Python, LaTeX, VBA, Ruby, Java, PHP, Ruby on Rails, R, JavaScript, Angular JS, Node JS, NoSQL, Bender, Julia
-* Human: English, Thai, French, German
-* OS Command shells: CP/M, UNIX, MSDOS, MS Windows, OsX, Linux, KSH, BASH, SSH, Ardunio, Android
-* Version control: RCS, CVS, Subversion, Bazaar, GIT
-* Open standards: HTML, CSS, XML, RSS, GPX, Unicode, ISO9001, ISO29110
+* Passion for sports
+* Modelling
+* Love of reading
+* Guitar
+  
+# Experience with Business
+* Create an OTOP products
+* Crypto Currency
+* Create a business through selling in game items
 
 # Contact Info
-* [Web Page](https://rbatzing.github.io)
-* [LinkedIn](https://www.linkedin.com/in/robert-batzinger)
-* [Twitter](https://twitter.com/rbatz)
-* [Google Scholar](https://scholar.google.com/citations?user=LYSacdYAAAAJ&hl=en)
-* [Research Gate](https://www.researchgate.net/profile/Robert-Batzinger)
+* [Tel]089-694-9893
+* [Line]089-694-9893
+* [Gmail]Tigernaserbin@gmail.com
 
 
