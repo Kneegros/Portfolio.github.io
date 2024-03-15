@@ -1,4 +1,4 @@
-<img src="http://rbatzing.github.io/img/bob5.png" alt="RPB Photo" align="right" width="30%"/>
+<img src="https://github.com/Kneegros/Portfolio.github.io/blob/main/bd103e3a-cd0c-455d-8564-5ec6fe25f420.jpg" alt="RPB Photo" align="right" width="30%"/>
 
 # _Robert P Batzinger_
 > _Praeceptor Emeritus_<br />
