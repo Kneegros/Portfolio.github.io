@@ -26,8 +26,8 @@
 * Create a business through selling in game items
 
 # Contact Info
-* [Tel]089-694-9893
-* [Line]089-694-9893
-* [Gmail]Tigernaserbin@gmail.com
+* [Tel] 089-694-9893
+* [Line] 089-694-9893
+* [Gmail] Tigernaserbin@gmail.com
 
 
